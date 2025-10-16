@@ -4,14 +4,6 @@
 # 🧠 Peoples Information Technology Program – Phase II  
 ### 🎓 *Data Science Course – Assignments | Notes | Projects*
 
-![GitHub repo size](https://img.shields.io/github/repo-size/salarmastoi110/PITP-DataScience-Course?color=gold)
-![GitHub last commit](https://img.shields.io/github/last-commit/salarmastoi110/PITP-DataScience-Course?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/salarmastoi110/PITP-DataScience-Course?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/salarmastoi110/PITP-DataScience-Course?color=green)
-![GitHub license](https://img.shields.io/badge/license-MIT-red)
-
-<img src="https://github.com/salarmastoi110/PITP-DataScience-Course/blob/main/banner.png" width="100%" alt="PITP Data Science Banner"/>
-
 ✨ *Empowering Future Data Scientists through Practical Learning at QUEST* ✨  
 
 ---
@@ -99,7 +91,5 @@ Feel free to reach out — let’s build something **amazing with data!** 🚀
 <div align="center">
   
 ✨ *“Data is the new oil — but only if you know how to refine it.”* ✨  
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Peoples+IT+Program+-+Phase+II;Data+Science+Course+Journey at QUEST;Learning+Never+Stops!;Keep+Exploring+%F0%9F%9A%80)
 
 </div>
