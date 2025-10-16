@@ -1,7 +1,7 @@
 <!-- 🎓 PITP DATA SCIENCE COURSE README -->
 <div align="center">
 
-# 🧠 Peoples Information Technology Program – Phase II  
+# Peoples Information Technology Program – Phase II  
 ### 🎓 *Data Science Course – Assignments | Notes | Projects*
 
 ✨ *Empowering Future Data Scientists through Practical Learning at QUEST* ✨  
@@ -29,26 +29,11 @@ It includes assignments, quizzes, lab tasks, and real-world projects completed d
 
 ## 🗂 Folder Structure
 PITP-DataScience-Course/
-│
 ├── 📁 Assignments/
 │ ├── Assignment_1.ipynb
 │ ├── Assignment_2.ipynb
-│ └── ...
-│
-├── 📁 Notes/
-│ ├── Pandas_Notes.pdf
-│ ├── ML_Notes.pdf
-│ └── ...
-│
-├── 📁 Projects/
-│ ├── EDA_Project.ipynb
-│ ├── ML_Model_Project.ipynb
-│ └── ...
-│
-├── 📁 Data/
-│ └── sample_dataset.csv
-│
-└── README.md
+│ ├── Assignment_3.ipynb
+│ └── Assignment_4.ipynb
 
 
 ---
