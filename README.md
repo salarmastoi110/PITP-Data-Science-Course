@@ -27,18 +27,10 @@ It includes assignments, quizzes, lab tasks, and real-world projects completed d
 
 ---
 
-## 🗂 Folder Structure
-PITP-DataScience-Course/
-├── 📁 Assignments/
-│ ├── Assignment_1.ipynb
-│ ├── Assignment_2.ipynb
-│ ├── Assignment_3.ipynb
-│ └── Assignment_4.ipynb
-
 
 ---
 
-## 🧩 Skills Gained
+##Skills Gained
 ✅ Python Programming  
 ✅ Data Wrangling with Pandas  
 ✅ Data Visualization using Matplotlib & Seaborn  
@@ -48,7 +40,7 @@ PITP-DataScience-Course/
 
 ---
 
-## 🧠 Tools & Technologies
+##  Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,anaconda" />
 </p>
