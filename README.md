@@ -10,13 +10,15 @@
 ![GitHub forks](https://img.shields.io/github/forks/salarmastoi110/PITP-DataScience-Course?color=green)
 ![GitHub license](https://img.shields.io/badge/license-MIT-red)
 
-✨ *Empowering Future Data Scientists through Practical Learning* ✨  
+<img src="https://github.com/salarmastoi110/PITP-DataScience-Course/blob/main/banner.png" width="100%" alt="PITP Data Science Banner"/>
+
+✨ *Empowering Future Data Scientists through Practical Learning at QUEST* ✨  
 
 ---
 
 ### 🌟 Overview
 This repository contains my complete coursework from the **Peoples Information Technology Program – Phase II (PITP)**  
-under the **Data Science Track**.  
+under the **Data Science Track**, conducted at **Quaid-e-Awam University of Engineering, Science & Technology (QUEST)**.  
 It includes assignments, quizzes, lab tasks, and real-world projects completed during the training.
 
 ---
@@ -83,7 +85,7 @@ PITP-DataScience-Course/
 
 ## 💡 Author
 **👨‍💻 Salar Mastoi**  
-📍 *Data Science Student | Machine Learning Enthusiast | API Developer*  
+📍 *Student, QUEST – Data Science Enthusiast*  
 🌐 [GitHub](https://github.com/salarmastoi110) | [LinkedIn](https://linkedin.com/in/salarmastoi110) | [Instagram](https://instagram.com/salarmastoi110)
 
 ---
@@ -98,6 +100,6 @@ Feel free to reach out — let’s build something **amazing with data!** 🚀
   
 ✨ *“Data is the new oil — but only if you know how to refine it.”* ✨  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Peoples+IT+Program+-+Phase+II;Data+Science+Course+Journey;Learning+Never+Stops!;Keep+Exploring+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Peoples+IT+Program+-+Phase+II;Data+Science+Course+Journey at QUEST;Learning+Never+Stops!;Keep+Exploring+%F0%9F%9A%80)
 
 </div>
