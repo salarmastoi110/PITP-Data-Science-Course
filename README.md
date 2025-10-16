@@ -1,0 +1,103 @@
+<!-- 🎓 PITP DATA SCIENCE COURSE README -->
+<div align="center">
+
+# 🧠 Peoples Information Technology Program – Phase II  
+### 🎓 *Data Science Course – Assignments | Notes | Projects*
+
+![GitHub repo size](https://img.shields.io/github/repo-size/salarmastoi110/PITP-DataScience-Course?color=gold)
+![GitHub last commit](https://img.shields.io/github/last-commit/salarmastoi110/PITP-DataScience-Course?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/salarmastoi110/PITP-DataScience-Course?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/salarmastoi110/PITP-DataScience-Course?color=green)
+![GitHub license](https://img.shields.io/badge/license-MIT-red)
+
+✨ *Empowering Future Data Scientists through Practical Learning* ✨  
+
+---
+
+### 🌟 Overview
+This repository contains my complete coursework from the **Peoples Information Technology Program – Phase II (PITP)**  
+under the **Data Science Track**.  
+It includes assignments, quizzes, lab tasks, and real-world projects completed during the training.
+
+---
+
+## 🚀 Course Highlights
+| Module | Topics Covered |
+|---------|----------------|
+| 🐍 Python for Data Science | Variables, Loops, Functions, Libraries |
+| 📊 Numpy & Pandas | Data Manipulation, Cleaning, Analysis |
+| 📈 Matplotlib & Seaborn | Data Visualization, Charts & Graphs |
+| 🔍 EDA | Data Insights, Correlations, Trends |
+| 🤖 Machine Learning Basics | Regression, Classification, Model Evaluation |
+| 💾 Final Project | Data Pipeline, Visualization Dashboard |
+
+---
+
+## 🗂 Folder Structure
+PITP-DataScience-Course/
+│
+├── 📁 Assignments/
+│ ├── Assignment_1.ipynb
+│ ├── Assignment_2.ipynb
+│ └── ...
+│
+├── 📁 Notes/
+│ ├── Pandas_Notes.pdf
+│ ├── ML_Notes.pdf
+│ └── ...
+│
+├── 📁 Projects/
+│ ├── EDA_Project.ipynb
+│ ├── ML_Model_Project.ipynb
+│ └── ...
+│
+├── 📁 Data/
+│ └── sample_dataset.csv
+│
+└── README.md
+
+
+---
+
+## 🧩 Skills Gained
+✅ Python Programming  
+✅ Data Wrangling with Pandas  
+✅ Data Visualization using Matplotlib & Seaborn  
+✅ Exploratory Data Analysis (EDA)  
+✅ Machine Learning Fundamentals  
+✅ Real-World Project Development  
+
+---
+
+## 🧠 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,anaconda" />
+</p>
+
+---
+
+## 🎯 Objective
+> “The aim of this repository is to document my Data Science journey and share learning resources with the community. It serves as a guide for anyone starting in the Data Science field.”
+
+---
+
+## 💡 Author
+**👨‍💻 Salar Mastoi**  
+📍 *Data Science Student | Machine Learning Enthusiast | API Developer*  
+🌐 [GitHub](https://github.com/salarmastoi110) | [LinkedIn](https://linkedin.com/in/salarmastoi110) | [Instagram](https://instagram.com/salarmastoi110)
+
+---
+
+## 📬 Connect & Collaborate
+💬 Have feedback or want to collaborate?  
+Feel free to reach out — let’s build something **amazing with data!** 🚀
+
+---
+
+<div align="center">
+  
+✨ *“Data is the new oil — but only if you know how to refine it.”* ✨  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Peoples+IT+Program+-+Phase+II;Data+Science+Course+Journey;Learning+Never+Stops!;Keep+Exploring+%F0%9F%9A%80)
+
+</div>
